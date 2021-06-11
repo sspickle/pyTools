@@ -1,0 +1,11 @@
+.ipynb*
+Icon*
+*~
+
+/build
+/cython_ext
+*.so
+
+/venv
+
+
