@@ -5,3 +5,5 @@ scipy
 sympy
 vpython
 serial
+matplotlib
+
