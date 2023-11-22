@@ -5,3 +5,5 @@ scipy
 sympy
 serial
 matplotlib
+openpyxl
+
